@@ -2,5 +2,8 @@
  StartNG HTML First Webpage task
 
 
-git clone <repo link>
+git clone https://github.com/Oluwatobilobaoke/First_Webpage
+
+
+
 open index.html
